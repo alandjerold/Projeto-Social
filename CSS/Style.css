@@ -16,6 +16,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
+    width: 100%;
     
 
 }
@@ -37,6 +38,7 @@ main{
     background-repeat: no-repeat;
     width: 311px;
     height: 627px;
+ 
 }
 
 #tela{
@@ -45,5 +47,17 @@ top: 80px;
 left: 22px;
 width: 270px;
 height: 471px;
+}
+#botoes{
+    text-align: right;
+    border: 2px white;
+}
+#botoes img{
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.644);
+    
+    
 }
 
